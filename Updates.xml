@@ -12,6 +12,18 @@
   <Script>installscript.qs</Script>
   <UpdateFile UncompressedSize="62981642" CompressedSize="18929431" OS="Any"/>
   <DownloadableArchives>bearer.7z,iconengines.7z,imageformats.7z,Images.7z,platforms.7z,styles.7z,translations.7z,content.7z</DownloadableArchives>
-  <SHA1>2c0eb55e9bbdbdc59742ff9cf1d930dbd00957b1</SHA1>
+  <SHA1>4ff1d534de3ce1af781cfb7acfd8cc6acfe21b9c</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
+  <Name>1.1</Name>
+  <DisplayName>LBX_Editor</DisplayName>
+  <Description>LBX Control Application.</Description>
+  <Version>1.1.0-1</Version>
+  <ReleaseDate>2018-03-31</ReleaseDate>
+  <Default>true</Default>
+  <Script>installscript.qs</Script>
+  <UpdateFile UncompressedSize="62981642" CompressedSize="18929408" OS="Any"/>
+  <DownloadableArchives>bearer.7z,iconengines.7z,imageformats.7z,Images.7z,platforms.7z,styles.7z,translations.7z,content.7z</DownloadableArchives>
+  <SHA1>1efa6e8a867b4cd5f2a68adab38d4e5502a2fd94</SHA1>
  </PackageUpdate>
 </Updates>
